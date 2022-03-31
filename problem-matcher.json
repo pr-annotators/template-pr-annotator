@@ -1,7 +1,7 @@
 {
     "problemMatcher": [
         {
-            "owner": "<tool-name>-error",
+            "owner": "{tool-name}-error",
             "severity": "error",
             "pattern": [
                 {
